@@ -17,6 +17,15 @@ Rettangolo QuartoRettangolo = new Rettangolo(4, 2, "QuartoRettangolo");
 Rettangolo QuintoRettangolo = new Rettangolo(14, 17, "QuintoRettangolo");
 
 SecondoRettangolo.stampaRettangolo();
+SecondoRettangolo.disegnaRettangolo();
+
 TerzoRettangolo.stampaRettangolo();
+TerzoRettangolo.disegnaRettangolo();
+
 QuartoRettangolo.stampaRettangolo();
+QuartoRettangolo.disegnaRettangolo();
+
 QuintoRettangolo.stampaRettangolo();
+QuintoRettangolo.disegnaRettangolo();
+
+
